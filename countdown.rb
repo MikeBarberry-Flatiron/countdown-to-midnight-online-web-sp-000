@@ -5,4 +5,5 @@ def countdown(number)
   while n < 30
     puts "#{number} SECONDS(S)!"
     n += 1
+  end 
 end
